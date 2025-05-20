@@ -1,0 +1,263 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name_release">Fiestamas</string>
+    <!--<string name="app_name_staging">Fiestamas (Staging)</string>-->
+    <string name="app_name_debug">Fiestamas (Dev)</string>
+
+    <string name="gral_continue">Continuar</string>
+    <string name="gral_cancel">Cancelar</string>
+    <string name="gral_accept">Aceptar</string>
+    <string name="gral_delete">Eliminar</string>
+    <string name="gral_shared">shared</string>
+    <string name="gral_phantom_event_id">b26WVIm9RcEvXtqfiYDe</string>
+    <string name="gral_error_empty">%s no puede estar vacío</string>
+    <string name="gral_error_empty_female">%s no puede estar vacía</string>
+    <string name="gral_error_zero">%s no puede ser 0</string>
+    <string name="gral_error_invalid">%s es inválido</string>
+    <string name="gral_error_phone_formatted">El %s no tiene el formato correcto de 10 dígitos</string>
+    <string name="gral_error_city">La ciudad del evento está vacía o es inválida</string>
+
+    <!-- Main Home -->
+    <string name="main_home_individual_services">Servicios individuales</string>
+    <string name="main_home_new_service">Nuevo Servicio</string>
+    <string name="main_home_find_us">Encuéntranos</string>
+    <string name="main_home_create_account">Crea un cuenta de cliente para conocer nuestros servicios</string>
+
+    <!-- Progress dialog messages -->
+    <string name="progress_getting_info">Obteniendo información…</string>
+    <string name="progress_creating_event">Creando evento…</string>
+    <string name="progress_updating_password">Actualizando contraseña…</string>
+
+    <!-- Login and Sign Up -->
+    <string name="login_sign_in">Inicia Sesión</string>
+    <string name="login_sign_in_or_create_account">Inicia sesión o\nCrea una cuenta</string>
+    <string name="login_connect_more_clients">¡Conecta con más clientes!\nRegístrate y crece tu negocio</string>
+    <string name="login_create_account_for_free">Crea tu cuenta\n¡GRATIS!</string>
+    <string name="login_email">E-mail</string>
+    <string name="login_email_invalid">El correo electrónico es inválido</string>
+    <string name="login_email_invalid_ii">Debes ingresar un correo válido</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_new_password">Nueva Contraseña</string>
+    <string name="login_save_password">Guardar contraseña</string>
+    <string name="login_welcome">Bienvenid@ \n%s</string>
+    <string name="login_confirm_password">Confirmar la Contraseña</string>
+    <string name="login_fill_fields">Llene los campos requeridos</string>
+    <string name="login_wrong_credentials">El Usuario y/o Contraseña son incorrectos. Verifique y vuelva a intentar. </string>
+    <string name="login_connect_with">Conéctate con</string>
+    <string name="login_login_with">Ingresa con:</string>
+    <string name="login_terms_and_conditions_one">Al iniciar sesión o al crear una cuenta, aceptas nuestros</string>
+    <string name="login_terms_and_conditions_two">Términos y condiciones</string>
+    <string name="login_terms_and_conditions_three">y la</string>
+    <string name="login_terms_and_conditions_four">Política de privacidad</string>
+    <string name="login_all_rights_reserved1">Todos los derechos reservados.</string>
+    <string name="login_all_rights_reserved2">Copyright (2024) - FIESTAMAS.com®</string>
+
+    <!-- Create Password -->
+    <string name="create_password_title">Crear una contraseña</string>
+    <string name="create_password_to">para: %s</string>
+    <string name="create_password_conditions">Usa un mínimo de 8 caracteres que incluyan mayúsculas, minúsculas, números y símbolos.</string>
+    <string name="create_password_terms_one">Acepto los</string>
+    <string name="create_password_create_account">Crear una cuenta</string>
+    <string name="create_password_receive_promo">Quiero recibir promociones y descuentos de FIESTAMAS.</string>
+    <string name="create_password_to_be_provider">Quiero ser proveedor</string>
+    <string name="create_password_accept_terms">Por favor acepte los Términos y Condiciones</string>
+    <string name="create_password_format_incorrect">Verifique el formato de la contraseña</string>
+    <string name="create_password_not_equal">Las contraseñas no coinciden</string>
+    <string name="update_password_title">Actualizar contraseña</string>
+
+    <!-- Add Business -->
+    <string name="business_name">Nombre del negocio</string>
+    <string name="business_address">Dirección</string>
+    <string name="business_contact_info">Información del contacto</string>
+    <string name="business_contact_name">Nombre (s)</string>
+    <string name="business_contact_business_name">Nombre</string>
+    <string name="business_contact_last_name">Apellido (s)</string>
+    <string name="business_contact_address">Domicilio</string>
+    <string name="business_contact_city">Ciudad</string>
+    <string name="business_contact_state">Estado</string>
+    <string name="business_contact_confirm_postal_code">Código postal</string>
+    <string name="business_contact_confirm_country">País</string>
+    <string name="business_contact_mobile_phone">Teléfono móvil</string>
+    <string name="business_contact_home_phone">Tel fijo (Opcional)</string>
+    <string name="business_contact_rfc">RFC (Opcional)</string>
+    <string name="business_contact_country">País</string>
+    <string name="business_contact_country_code">MX 52</string>
+    <string name="business_contact_account_created">Cuenta creada con éxito!</string>
+
+    <!-- Drop down list countries -->
+    <string name="drop_down_country_mx">México</string>
+
+    <!-- Drop down list country code -->
+    <string name="drop_down_country_code_mx">MX 52</string>
+
+    <!-- Autocomplete address -->
+    <string name="autocomplete_title">Búsqueda de dirección</string>
+    <string name="autocomplete_search">Buscar</string>
+    <string name="autocomplete_map_item_title">¿No encuentras tu dirección?</string>
+    <string name="autocomplete_map_item_subtitle">Buscar en el mapa</string>
+    <string name="autocomplete_location_permissions_title">Se necesitan permisos de ubicación para usar el mapa</string>
+    <string name="autocomplete_location_permissions_subtitle">Habilítalos manualmente presionando el botón de Configuración</string>
+    <string name="autocomplete_location_permissions_settings">Ir a la Configuración</string>
+    <string name="autocomplete_location_selected_location">Ubicación seleccionada</string>
+
+    <!-- Service process -->
+    <string name="service_event">Evento</string>
+    <string name="service_festejados_names">Nombre(s) del festejado(s)</string>
+    <string name="service_date">Fecha del evento</string>
+    <string name="service_time">Hora del evento</string>
+    <string name="service_number_of_guests">Cantidad de invitados</string>
+    <string name="service_city">Ciudad del evento</string>
+    <string name="service_services">Servicios</string>
+    <string name="service_order_by">Ordenar por</string>
+    <string name="service_management">Administrar</string>
+    <string name="service_closeness">Cercanía</string>
+    <string name="service_km">%s km</string>
+    <string name="service_image_counter">%s/%s</string>
+    <string name="service_verified_provider">✔ Proveedor verificado</string>
+    <string name="service_read_more">Leer más</string>
+    <string name="service_read_less">Leer menos</string>
+    <string name="service_contact">Contactar GRATIS</string>
+    <string name="service_unavailable">No disponible</string>
+    <string name="service_add_service">Agregar Servicio</string>
+    <string name="service_no_services">Sin servicios</string>
+    <string name="service_capacity">Capacidad</string>
+    <string name="service_per_unity_with_extra">Por %s</string>
+    <string name="service_per_unity">Por</string>
+    <string name="service_distance_max">Distancia</string>
+    <string name="service_distance_max_one">Distancia máxima</string>
+    <string name="service_guests_enjoy">Lo que más les gustó a los invitados</string>
+    <string name="service_photos">Fotos</string>
+    <string name="service_added_title">Servicio agregado</string>
+    <string name="service_added_message">El servicio se agregó correctamente a Mifiesta</string>
+    <string name="service_detail_message">Mensaje</string>
+    <string name="service_detail_whatsapp">Whatsapp</string>
+    <string name="service_select_service">Selecciona un Servicio</string>
+    <string name="service_delete_service_title">Eliminar servicio</string>
+    <string name="service_delete_service_body">¿Confirma que desea eliminar el servicio seleccionado?</string>
+    <string name="service_delete_service_in_progress">Eliminando servicio…</string>
+
+    <!-- New Event Provider -->
+    <string name="new_event_contact_name">Nombre del contacto</string>
+    <string name="new_event_phone">Teléfono</string>
+    <string name="new_event_email">Correo electrónico</string>
+    <string name="new_event_location">Ciudad del evento</string>
+    <string name="new_event_next">Siguiente</string>
+
+    <!-- Mifiesta -->
+    <string name="mifiesta_progress">Avance</string>
+    <string name="mifiesta_cost">$ %s</string>
+    <string name="mifiesta_rest">&#160;Faltan&#160;</string>
+    <string name="mifiesta_ago">&#160;Fue hace&#160;</string>
+    <string name="mifiesta_days">&#160;días</string>
+    <string name="mifiesta_contact">Contacto: %s</string>
+    <string name="mifiesta_cost_per_event">Costo por evento</string>
+    <string name="mifiesta_middle_dot">●</string>
+    <string name="mifiesta_add_event_to_continue">Seleccione un evento arriba para agregar servicios!</string>
+    <string name="mifiesta_old_event">Este evento ya ocurrió. No se pueden agregar más servicios.</string>
+    <string name="mifiesta_no_events">Aún no has agregado Eventos.\nPresiona el botón "Nueva Fiesta" para comenzar el proceso.</string>
+    <string name="mifiesta_no_services_by_events">No existen servicios para este evento.\nPresiona el botón "Agregar Servicios +"\ne inicia el proceso.</string>
+    <string name="mifiesta_check">✔ %s</string>
+    <string name="mifiesta_empty_quote_client">
+        Aún no se ha agregado una cotización por parte del proveedor.\n\n
+        Espera a que se agregue y recuerda que siempre puedes contactarlo con los botones superiores en la pantalla.
+    </string>
+    <string name="mifiesta_empty_quote_provider">
+        Aún no has agregado una cotización para este servicio.\n\n"
+        Recuerda que el cliente está esperando por ella y entre más pronto lo hagas, más rápido será la negociación.\n\n
+        Presiona el botón \'+ Cotiza\' y comienza a agregar la cotización al Servicio.
+    </string>
+    <string name="mifiesta_status_updated">Estatus actualizado!</string>
+    <string name="mifiesta_status_requires_approval">Requiere aprobación</string>
+    <string name="mifiesta_confirm_cancel_event">¿Confirma que desea cancelar el servicio para el evento seleccionado?</string>
+    <string name="mifiesta_confirm_edit_quote">Esta oferta ya fue aceptada. Para poder editarla, requieres la aprobación del cliente.\n\n¿Deseas solicitar la aprobación del cliente?</string>
+    <string name="mifiesta_confirm_edit_quote_again">La edición de esta oferta ya fue rechazada previamente por el cliente.\n\n¿Deseas solicitar nuevamente su aprobación?</string>
+    <string name="mifiesta_confirm_decline_quote_title">Rechazar cotización</string>
+    <string name="mifiesta_confirm_decline_quote_body">Al rechazar esta cotización, el proveedor será notificado. Sin embargo, puedes seguir en contacto a través del chat para resolver cualquier duda o coordinar cambios. ¿Estás seguro que deseas continuar?</string>
+    <string name="mifiesta_edit">Edita cotización</string>
+    <string name="mifiesta_quote">Nueva cotización</string>
+    <string name="mifiesta_quote_express">Cotización express</string>
+    <string name="mifiesta_quote_request">Solicitar cotización</string>
+    <string name="mifiesta_quotation">Cotización</string>
+    <string name="mifiesta_quote_add_quantity_to_offer">Ingrese una cantidad a ofrecer</string>
+    <string name="mifiesta_quote_accepted">Cotización aceptada!</string>
+    <string name="mifiesta_quote_non_existent">Tu proveedor no ha generado\naún una cotización</string>
+    <string name="mifiesta_quote_provider_non_existent">Aún no has generado una\ncotización para tu cliente.</string>
+    <string name="mifiesta_my_offer">Mi Oferta</string>
+    <string name="mifiesta_i_offer">Ofrezco</string>
+    <string name="mifiesta_admin_my_services">Admin servicios</string>
+    <string name="mifiesta_admin_my_promos">Admin promos</string>
+
+    <!-- Messages | Notifications -->
+    <string name="notification_title">Notificaciones</string>
+    <string name="notification_sending_message">Enviando mensaje…</string>
+    <string name="notification_empty" tools:ignore="Typos">Sin mensajes por el momento</string>
+    <string name="notification_unable_to_open_quote">No es posible abrir la cotización desde aquí</string>
+
+    <!-- Add or Edit Service Provider -->
+    <string name="add_service_title">Alta de Servicios</string>
+    <string name="edit_service_title">Editar Servicio</string>
+    <string name="add_service_photos">Fotos</string>
+    <string name="add_service_videos">Videos</string>
+    <string name="add_service_finish">Finalizar</string>
+    <string name="add_service_max_error">El número mínimo de invitados es mayor al máximo. Revise ese dato.</string>
+    <string name="add_services_types">Tipos de %s que ofreces</string>
+    <string name="add_service_type">Tipo de servicio que ofreces</string>
+    <string name="add_service_info">Información del Servicio</string>
+    <string name="add_service_suggested_attribute">¿No encontraste tu servicio? Sugiéremelo</string>
+    <string name="add_service_description">Descripción</string>
+    <string name="add_service_min_people">Mínimo de asistentes</string>
+    <string name="add_service_max_people">Máximo de asistentes</string>
+    <string name="add_service_price">Precio $$</string>
+    <string name="add_service_unity">Unidad</string>
+    <string name="add_service_select_attribute">Seleccione al menos un atributo</string>
+    <string name="add_service_error">Error al crear el Servicio. Revise los Logs.</string>
+    <string name="add_service_success">Servicio creado correctamente!</string>
+    <string name="edit_service_success">Servicio actualizado correctamente!</string>
+    <string name="add_service_sending_info">Enviando información…</string>
+    <string name="add_service_add_photo_before_continue">Agregue al menos una foto antes de finalizar</string>
+    <string name="add_service_camera">Cámara fotográfica</string>
+    <string name="add_service_camera_video">Cámara de video</string>
+    <string name="add_service_gallery">Galería de imágenes</string>
+    <string name="add_service_gallery_video">Galería de videos</string>
+    <string name="add_service_choose_other_service_name">Elige otro nombre de servicio</string>
+
+    <!-- Profile -->
+    <string name="profile_confirm_log_out">¿Confirma que desea cerrar sesión?</string>
+    <string name="profile_log_out">Cerrar sesión</string>
+    <string name="profile_change_photo">Cambiar foto</string>
+    <string name="profile_change_password">Cambiar contraseña</string>
+    <string name="profile_edit_profile">Editar Perfil</string>
+    <string name="profile_update_profile">Actualizar Perfil</string>
+    <string name="profile_updated_successfully">Perfil actualizado con éxito</string>
+    <string name="profile_to_modify_finalize_services">Para modificar el domicilio, finaliza tus servicios activos.</string>
+    <string name="profile_error_updating_password">Error al actualizar la contraseña.</string>
+    <string name="profile_password_updated">Contraseña actualizada. Inicie sesión nuevamente.</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+    <!-- Video recording screen -->
+    <string name="app_name">CameraXAndCompose</string>
+    <string name="allow_permission">Permitir permisos</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="settings">Configuración</string>
+    <string name="permission_rationale">La App necesita los permisos necesarios para acceder a la cámara y al micrófono. Favor de habilitarlos.</string>
+    <string name="record_video">Record video</string>
+    <string name="take_picture">Take picture</string>
+    <string name="request_permissions">Solicitar permisos para usar la cámara</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="captured">Captured</string>
+    <string name="path_is_null">Image path not available</string>
+
+    <!-- Promotions screen -->
+    <string name="promo_promo">Promoción</string>
+    <string name="promo_promos">Promociones</string>
+    <string name="promo_error_editing">Error al editar la promo!</string>
+    <string name="promo_error_creating">Error al crear la promo!</string>
+    <string name="promo_error_deleting">Error al eliminar la promo!</string>
+    <string name="promo_delete_title">Eliminar promoción</string>
+    <string name="promo_delete_body">¿Confirma que desea eliminar la promo seleccionada?</string>
+    <string name="promo_delete_in_progress">Eliminando promo…</string>
+    <string name="promo_no_promos">Sin promociones</string>
+    <string name="promo_add_promo">Agregar promoción</string>
+
+</resources>

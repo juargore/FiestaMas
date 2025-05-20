@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.universal.fiestamas",
+    "sha256_cert_fingerprints":
+    ["B4:CA:BD:7C:FB:DA:F0:35:DE:07:BE:FD:D8:80:C6:0B:D0:A5:EE:57:B8:76:3B:4F:C6:CA:B0:FD:35:B9:0D:8C"]
+  }
+}]
